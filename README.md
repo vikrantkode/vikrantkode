@@ -7,7 +7,7 @@
 - 💬 Ask me about technology, community-building, tech-community
 - 📫 How to reach me:[Twitter : @imVikumar](https://twitter.com/imViKumar), [LinkedIn : vikrant-kumar-23648317a/](https://www.linkedin.com/in/vikrant-kumar-23648317a/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Can survive anywhere
+- ⚡ Fun fact: Never miss a chance to enjoy. Life is too small to take loads.
 
 
 
