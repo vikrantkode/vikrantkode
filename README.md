@@ -5,7 +5,7 @@
 - 👯 I’m looking to contribute on Open source  
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about technology, community-building, tech-community
-- 📫 How to reach me:[Twitter : @imVikumar](https://twitter.com/imViKumar), [LinkedIn : vikrant-kumar-23648317a/](https://www.linkedin.com/in/vikrant-kumar-23648317a/)
+- 📫 How to reach me:[Twitter : @imVikumar](https://twitter.com/imViKumar), [LinkedIn : vikrant-kumar-23648317a/](https://www.linkedin.com/in/vikrant28kumar/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Never miss a chance to enjoy. Life is too small to take loads.
 
