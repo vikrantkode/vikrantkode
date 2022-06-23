@@ -1,7 +1,7 @@
 ###  👋 Hi, Vikrant Here!!!  
 
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Java, Spring Frameworks, Angular JS, Node Js
+- 🌱 I’m currently learning Java, Spring Frameworks, React JS, Node Js
 - 👯 I’m looking to contribute on Open source  
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about technology, community-building, tech-community
